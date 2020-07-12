@@ -1,3 +1,3 @@
 [Udemy course](https://www.udemy.com/complete-course-on-data-visualization-matplotlib-and-python/learn/v4/overview)
 
-In progress...
+A Udemy course about visualization.
